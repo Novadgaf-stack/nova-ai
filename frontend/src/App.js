@@ -437,7 +437,7 @@ function App() {
         </HeaderIconButton>
         
         <HeaderTitle>
-          Xzavior
+          Nova
         </HeaderTitle>
       </Header>
       
