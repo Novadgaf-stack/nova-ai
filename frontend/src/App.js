@@ -478,7 +478,7 @@ function App() {
               value={input}
               onChange={handleInputChange}
               onKeyPress={handleKeyPress}
-              placeholder="Ask Xzavior AI"
+              placeholder="Ask Nova AI"
             />
             <IconButton 
               onClick={handleVoiceRecording}
